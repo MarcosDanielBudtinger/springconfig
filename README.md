@@ -12,4 +12,4 @@ Para rodar basta seguir os seguintes passos:
 - `spring.profiles.active=prod para produção`
 - `spring.profiles.active=dev para desenvolvimento`
 
--executar o projeto através da sua IDE preferida ou via terminal com o comando `spring-boot:run`
+-executar o projeto através da sua IDE preferida ou via terminal com o comando `mvn spring-boot:run`
